@@ -10,4 +10,4 @@ deploy:
     repo: furu/hubot-tfrkd-slack
 notifications:
   slack:
-    secure: WQFMMDca/hpeTJr2n1SUQfv1SryWuk2CRtbhabyOYQ096HQv4tvoeou8eL1PVZcgUy0ogWcmuY+Th/RFh/Ef8Fw5MxlNU3M7v1TyVlDClT05OeT5hd+AroMFfcOF/JVYihXqaPhYyjDNnUgLdwS7ltQXY+fJywjXDVaiXB3MLpQ=
+    secure: b/albFMBBJP8Wc+RKQOP/3lUn2TCw6FjnZgFasdd4ObdzhZlgMqmN+nDaeEQOit6B9NMk4COPvl+8RBY1876ZEd/p++LyXvmnNHK8Cd+TZwfHbr88knfYhDFm0LzrUKZiYjZg/e0OlwxEnpPpaNjszaFMMS/Jwpx9bkMn1k/3iM=
